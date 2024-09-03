@@ -1,0 +1,1 @@
+Since the data file in .pkl is too big for Github (301MB), I have located it at: https://www.dropbox.com/scl/fi/prgd5mi1ou34e30oiahan/ehr_preprocessed_seq_by_day_cat_embedding.pkl?rlkey=wy4fq0tchizqt5wk23ku2gge2&st=0x00tguk&dl=0
